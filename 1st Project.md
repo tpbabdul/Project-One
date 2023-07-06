@@ -13,12 +13,14 @@ I ran into some more trouble at the final stage where I had to enable PHP for th
 I however, was unbale to Create a new file named index.php inside your custom web root folder using :vim /var/www/projectlamp/index.php
 and then add the file:
 <?php
-phpinfo();.  This meeant that my website didn't show as expected on the last page, but I will check to see what else I may have donw differently in my spare time.
+phpinfo();.  This meant that my website didn't show as expected on the last page, but I will check to see what else I may have done differently in my spare time.
 
 The image shows the last failed command.
 
 <img width="1440" alt="Screenshot 2023-06-07 at 22 23 17" src="https://github.com/tpbabdul/Project-One/assets/135444991/b0d16600-1a46-446f-afe8-7e36edd284c7"><img width="1440" alt="Screenshot 2023-06-07 at 22 23 17" src="https://github.com/tpbabdul/Project-One/assets/135444991/8ab1360c-b607-41be-926e-3b9ee8ec1eea">
 
 This meant that my webpage didn't display the information about your server from the perspective of PHP.
+
+Following the blocker session, I was able to create the index.php file and add the php info.  All worked as expected.
 
 
