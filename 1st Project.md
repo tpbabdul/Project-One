@@ -21,6 +21,6 @@ The image shows the last failed command.
 
 This meant that my webpage didn't display the information about your server from the perspective of PHP.
 
-Following the blocker session, I was able to create the index.php file and add the php info.  All worked as expected.
+Following the blocker session, I was able to create the index.php file and add the php info.  All worked as expected. end
 
 
